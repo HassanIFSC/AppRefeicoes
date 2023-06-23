@@ -1,6 +1,6 @@
 *Projeto original por Janire "janirefdez" Fernandez - https://github.com/janirefdez/JetpackComposeMVVM*
 
-Utilizado e modificado por mim, Hassan de Souza Prestes, apenas para fins de aprendizado
+Utilizado e modificado apenas para fins de aprendizado
 
 ## Características
 - Padrão MVVM;
